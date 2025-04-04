@@ -1097,11 +1097,6 @@ hash = "c35fd026032c71290169c13c14db3140e1e95a8c449e3b45e71738fc586beaa2"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
-metafile = true
-
-[[files]]
 file = "mods/sparkle.pw.toml"
 hash = "92e1ae8fe083bd2203f0510cc23f63ba5acebddf2659811e8de01d36734fd982"
 metafile = true
