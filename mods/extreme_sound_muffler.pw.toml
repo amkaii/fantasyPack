@@ -1,0 +1,13 @@
+name = "Extreme sound muffler"
+filename = "ExtremeSoundMuffler-3.49-fabric-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/JyxFId0E/ExtremeSoundMuffler-3.49-fabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "280ca9c123137a6e50da903c069708edf51c3ee8"
+
+[update]
+[update.modrinth]
+mod-id = "5IIKsxiL"
+version = "JyxFId0E"
